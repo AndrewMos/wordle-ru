@@ -2,7 +2,7 @@
   "name": "wordle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AndrewMos.github.io/word-game-ru",
+  "homepage": "http://AndrewMos.github.io/wordle-ru",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
